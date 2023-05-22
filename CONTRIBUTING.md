@@ -27,7 +27,14 @@ In short, when you submit code changes, your submissions are understood to be un
 ## Report bugs using Github's issues
 We use GitHub issues to track public bugs. Report a bug by opening a new issue; it's that easy!
 
-## Write bug reports with detail, background, and sample code
+## Issues
+### Creating a new issue
+If you run into an issue, you can search if that issue has been reported before. If not, you can create an issue, using the relevant tags, form, etc.
+
+### Solving an issue
+As a general rule, we don’t assign issues to anyone. If you find an issue to work on, you are welcome to open a PR with a fix.[1](https://github.com/github/docs/blob/main/CONTRIBUTING.md#solve-an-issue)
+
+### Write bug reports with detail, background, and sample code
 **Great Bug Reports** tend to have:
 
 - A quick summary and/or background
