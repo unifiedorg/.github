@@ -16,8 +16,9 @@ There are two ways you can contribute to us,
 - Donating to us to keep us afloat.
 
 ## Contributing to our open source repo(s)
-Contributing guidlines **Comming "soon"**
+Contributing guidlines: [CONTRIBUTING.md](https://github.com/unifiedorg/.github/blob/main/CONTRIBUTING.md)
+The guidelines should be the same for every project, unless stated otherwise. (e.g. **Please read the CONTRIBUTING.md as it differs from the standard guidelines**)
 
 ## Donating to us to keep us afloat
-- Patreon
-- Ko-Fi
+- [Patreon](https://www.patreon.com/unifiedorg)
+- [Ko-Fi](https://ko-fi.com/unified)
