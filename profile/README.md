@@ -1,4 +1,4 @@
-![Unified Banner](https://unified.org.in/dist/images/unified-banner-text.png)
+![Unified Banner](https://unified.org.in/dist/images/unified-banner-text-rounded.png)
 
 # Hey there, welcome to Unified! 👋
 We are a small team, focused on **making the internet better, through tools, software, etc.**
